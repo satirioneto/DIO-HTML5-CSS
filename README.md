@@ -1,2 +1,2 @@
-# DIO---HTML5-e-CSS
-Curso de HTM5 e CSS pela DIO
+# DIO - Curso de HTML5 e CSS
+Curso de HTML5 e CSS com o Professor Lucas Vilabiom pela DIO
